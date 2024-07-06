@@ -70,6 +70,10 @@ You can customize various aspects of the game, such as:
 
 
 
+https://github.com/Khushal-Kindra/Snake-Game/assets/159249366/49cc0964-92cb-43ff-8ed2-1f986ff667ec
+
+
+
 
 Enjoy the game and happy coding!
 
